@@ -28,5 +28,7 @@ This project was built for the Veridion Entity Resolution Challenge – the goal
    ```bash
    pip install pandas rapidfuzz
 
+2.Then, run the script in your terminal:
+  python veridion.py
 
    
