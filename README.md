@@ -28,7 +28,9 @@ This project was built for the Veridion Entity Resolution Challenge – the goal
    ```bash
    pip install pandas rapidfuzz
 
-2.Then, run the script in your terminal:
+ 2.Then, run the script in your terminal:
   python veridion.py
+
+3.You'll get the result saved in entity_resolution_result.csv – this file contains all companies grouped based on how similar their names are.
 
    
